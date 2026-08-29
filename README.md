@@ -11,8 +11,7 @@ A self-directed equity research project: a full DCF + comparable-companies valua
 | `Infosys_Equity_Research_Model.xlsx` | 37-sheet valuation model: historical financials, ratio analysis, WACC/beta build, segment-level forecast, an FCFF DCF with a top-down/bottom-up reconciliation through a corporate-cost bridge, comps, scenarios, and a 22-check audit dashboard |
 | `Infosys_Equity_Research_Note.docx` | 3-5 page written research note — business overview, recent performance, valuation, investment thesis, risks & catalysts |
 | `Infosys_Equity_Research_Tear_Sheet.pdf` | One-page visual summary (football field chart, key outputs, thesis) |
-| `Infosys_Equity_Research_Interview_Guide.docx` | Internal study / interview-defense guide covering how the model was built and how to defend every methodology choice |
-| `Infosys_Equity_Research_CV_Portfolio_Pack.docx` | CV, LinkedIn, portfolio/GitHub and cover-letter wording tied to the verified project outputs |
+
 
 ## How the model is organized
 
